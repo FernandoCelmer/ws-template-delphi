@@ -1,6 +1,6 @@
 # [ws-template-delphi]
 
-Agile development model in Delphi with examples for organizing files, folders and project documentation
+Agile development model in Delphi with examples for organizing files, folders and project documentation.
 
 Site: www.fernandocelmer.com
 </br>
